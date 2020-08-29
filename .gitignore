@@ -1,0 +1,6 @@
+# Project exclude paths
+/target/
+*.iml
+/.allure/allure-2.10.0/
+/.idea/
+/allure-results/
